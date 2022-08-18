@@ -2,5 +2,9 @@ A - Apple
 B- Ball
 C- Cat
 D- Dog
+<<<<<<< HEAD
 E= East
 F= Fast
+=======
+E-elephant
+>>>>>>> 90c49d9f5b882acc8357427b70bfc3ccdd53a411
