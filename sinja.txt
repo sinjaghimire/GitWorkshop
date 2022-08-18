@@ -1,0 +1,5 @@
+A=Air
+B= Bat
+C= Can
+D= Dark
+E= Ear "
