@@ -2,4 +2,6 @@ A=Air
 B= Bat
 C= Can
 D= Dark
-E= Ear "
+E= Ear 
+F= Fanta
+G= Girl

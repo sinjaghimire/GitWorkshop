@@ -2,3 +2,5 @@ A - Apple
 B- Ball
 C- Cat
 D- Dog
+E= East
+F= Fast
