@@ -3,3 +3,6 @@ B=Ball
 C=Cat
 D=Dog
 E=Elephant
+F= Fish
+G= Goat
+H=Hen
