@@ -1,0 +1,5 @@
+A=Apple
+B=Banana
+C=Corndog
+D=Duck
+E=Emily
