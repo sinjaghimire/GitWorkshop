@@ -1,0 +1,5 @@
+A = Apache
+B = Boeing
+C = CommandLine
+D = Database
+E = Elephentasis
