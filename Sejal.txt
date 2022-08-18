@@ -3,3 +3,6 @@ B=Banana
 C=Corndog
 D=Duck
 E=Emily
+F=Fish
+G=Goat
+H=Hen
